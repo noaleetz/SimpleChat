@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleChat</string>
+    <string name="message_hint">Yo Miley was good</string>
+    <string name="send">Send it 4daTeam</string>
+
+    <string name="profile_me">My Profile Pic</string>
+    <string name="profile_other">Other profile pic</string>
+
+
+
+
+</resources>
